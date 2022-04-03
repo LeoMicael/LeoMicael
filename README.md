@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LeoMicael
-- 👀 I’m interested in read books and play guitar
-- 🌱 I’m currently learning nodejs, english language and javascript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in read books and play guitar.
+- 🌱 I’m currently learning nodejs, english language and javascrip.
+- 💞️ I’m looking to collaborate in my new project.
+- 📫 How to reach me professional.jsleomicael@gmail.com
 
 <!--
 LeoMicael/LeoMicael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
